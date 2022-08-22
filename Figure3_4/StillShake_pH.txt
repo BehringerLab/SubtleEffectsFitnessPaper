@@ -1,0 +1,19 @@
+Sample	Treatment	Shaking	Material	Innoculation	pH
+P1	Still_Plastic	Still	Plastic	from colony	6.31
+P2	Still_Plastic	Still	Plastic	from colony	6.43
+P3	Still_Plastic	Still	Plastic	from colony	6.15
+G1	Still_Glass	Still	Glass	from colony	6.27
+G2	Still_Glass	Still	Glass	from colony	6.3
+G3	Still_Glass	Still	Glass	from colony	6.38
+P1	Shaking_Plastic	Shaking	Plastic	from colony	6.67
+P2	Shaking_Plastic	Shaking	Plastic	from colony	6.26
+P3	Shaking_Plastic	Shaking	Plastic	from colony	6.73
+G1	Shaking_Glass	Shaking	Glass	from colony	7.85
+G2	Shaking_Glass	Shaking	Glass	from colony	7.89
+G3	Shaking_Glass	Shaking	Glass	from colony	7.94
+F1	Shaking_Flask	Shaking	Flask	from colony	8.94
+F2	Shaking_Flask	Shaking	Flask	from colony	8.93
+F3	Shaking_Flask	Shaking	Flask	from colony	8.98
+F1	Still_Flask	Still	Flask	from colony	7.7
+F2	Still_Flask	Still	Flask	from colony	7.72
+F3	Still_Flask	Still	Flask	from colony	7.71
